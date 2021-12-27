@@ -10,6 +10,8 @@
 |2021년 12월 17일|class 2|1|올라가는 달팽이|
 |2021년 12월 18일|class 2|2|직각 삼각형, 제로|
 |2021년 12월 19일|class 2|2|체스판, 랜선 자르기|
+|2021년 12월 27일|class 2|2|요세푸스 순열, 이항계수|
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
