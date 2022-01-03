@@ -14,6 +14,7 @@
 |2021년 12월 29일|class 2|2|영화감독 숌, 분해합|
 |2021년 12월 30일|class 2|5|소수 찾기, 카드2, ACM호텔, 수 정렬하기2, (+1) |
 |2021년 12월 30일|class 2|3|최소공배수와 최대공약수, 숫자카드2, 블랙잭|
+|2022년 1월 3일|class 3|1|유기농 배추|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
