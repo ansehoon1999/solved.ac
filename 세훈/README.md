@@ -16,6 +16,7 @@
 |2021년 12월 30일|class 2|3|최소공배수와 최대공약수, 숫자카드2, 블랙잭|
 |2022년 1월 6일|class 3|2|유기농 배추, dfs와 bfs|
 |2022년 1월 7일|class 3|1|1로 만들기|
+|2022년 1월 8일|class 3|1|색종이 만들기|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
