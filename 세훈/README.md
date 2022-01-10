@@ -17,6 +17,8 @@
 |2022년 1월 6일|class 3|2|유기농 배추, dfs와 bfs|
 |2022년 1월 7일|class 3|1|1로 만들기|
 |2022년 1월 8일|class 3|1|색종이 만들기|
+|2022년 1월 9일|class 3|1|1,2,3 더하기|
+|2022년 1월 10일|class 3|1|ATM|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
