@@ -9,6 +9,7 @@
 |2021년 12월 4주차|세훈 휴가|
 |2021년 12월 4주차|요세푸스 문제, 이항 계수, 영화감독 숌, 분해합, 소수 찾기, 카드2, ACM호텔, 수 정렬하기2, (+1), 최소공배수와 최대공약수, 숫자카드2, 블랙잭|
 |2022년 1월 1주차|유기농 배추, dfs와 bfs, 1로 만들기, 색종이 만들기, 1 2 3 더하기|
+|2022년 1월 2주차|ATMS|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
