@@ -19,6 +19,7 @@
 |2022년 1월 8일|class 3|1|색종이 만들기|
 |2022년 1월 9일|class 3|1|1,2,3 더하기|
 |2022년 1월 10일|class 3|1|ATM|
+|2022년 1월 11일|class 3|1|최소힙|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
