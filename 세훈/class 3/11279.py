@@ -1,25 +1,18 @@
 import sys
-
-import heapq
+import sys
+from queue import PriorityQueue
 
 n = int(sys.stdin.readline())
-
-heap = []
+que = PriorityQueue()
 
 for _ in range(n):
     x = int(sys.stdin.readline())
-    if x == 0:
-        if len(heap) == 0 :
+
+    if x == 0 :
+        if que.empty() :
             print(0)
         else :
-
-            reverse_sign = lambda x : x * -1
-            max_heap = list(map(reverse_sign, heap))
-            heapq.heapify(max_heap)
-            max_heap = list(map(reverse_sign, max_heap))
             
-            print(heapq.heappop(heap))
-
+            print(abs(que.get()))
     else :
-        heapq.heappush(heap, x)
-        
+        que.put(x * (-1))
