@@ -11,5 +11,3 @@
 |2022년 1월 1주차|유기농 배추, dfs와 bfs, 1로 만들기, 색종이 만들기, 1 2 3 더하기|
 |2022년 1월 2주차|atm, 최소 힙, 최대힙, 행렬곱, 피보니치 7|
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
