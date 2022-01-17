@@ -22,7 +22,7 @@
 |2022년 1월 11일|class 3|2|최소힙, 최대힙|
 |2022년 1월 12일|class 4|2|행렬곱, 피보니치 7|
 |2022년 1월 15일|class 4|2|n과 m (2) (5) |
-
+|2022년 1월 17일|class 3|2|바이러스, 나는야 포켓몬 마스터 이다솜|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansehoon1999)](https://solved.ac/ansehoon1999)
